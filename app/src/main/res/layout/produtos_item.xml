@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="122dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="10dp"
+            android:scaleType="centerCrop"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp">
+
+            <ImageView
+                android:id="@+id/imgProduto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/logo_sem_fundo"
+                android:layout_gravity="center"
+                android:contentDescription="@string/todo"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/txtProduto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/corte_de_cabelo"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"/>
+    </LinearLayout>
+
+

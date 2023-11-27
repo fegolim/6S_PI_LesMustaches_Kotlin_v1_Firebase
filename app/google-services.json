@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978906726930",
+    "project_id": "les-mustaches",
+    "storage_bucket": "les-mustaches.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978906726930:android:cc8fe4138205cd15ad0ecb",
+        "android_client_info": {
+          "package_name": "com.example.lesmustaches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978906726930-8labpcp4ekqnj78e97s3uk5ojk93lgvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lesmustaches",
+            "certificate_hash": "6ed1ac26c2a5e6ee483a12bd207715a30a09669f"
+          }
+        },
+        {
+          "client_id": "978906726930-8pjdhumr0ucpt9q9tkjgehgso7s4oa2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO815UWeQUp3wYLdsjRjp16vjg8kb__M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978906726930-8pjdhumr0ucpt9q9tkjgehgso7s4oa2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

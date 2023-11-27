@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Les Mustaches</string>
+    <string name="title_activity_home">Home</string>
+    <string name="todo" tools:ignore="ExtraTranslation">TODO</string>
+    <string name="les_mustaches" tools:ignore="ExtraTranslation">Les Mustaches</string>
+    <string name="bem_vindo_a_fernanda">Bem-vindo(a), Fernanda</string>
+    <string name="todos_os_servicos">Todos os Serviços</string>
+    <string name="agendar">AGENDAR</string>
+    <string name="corte_de_cabelo">Corte de Cabelo</string>
+    <string name="todo1">TODO</string>
+    <string name="title_activity_agendamento">Agendamento</string>
+    <string name="todos_os_produtos">Todos os Produtos</string>
+    <string name="direitos_reservados_1">© Les Mustaches 2023 - Todos os direitos reservados - CNPJ 62.823.257/0111-35</string>
+    <string name="direitos_reservados_2">Feito com ❤️ por Grupo 1 - curso DSM 6º Semestre - Fatec Zona Leste</string>
+    <string name="sair">SAIR</string>
+</resources>
